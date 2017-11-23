@@ -1,0 +1,9 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\LBPApplication\TextureClassification\obj\x86\Release\TextureClassification.MainForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\LBPApplication\TextureClassification\obj\x86\Release\TextureClassification.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\LBPApplication\TextureClassification\obj\x86\Release\TextureClassification.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\LBPApplication\TextureClassification\bin\Release\TextureClassification.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\LBPApplication\TextureClassification\bin\Release\TextureClassification.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\LBPApplication\TextureClassification\bin\Release\TextureClassification.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\LBPApplication\TextureClassification\obj\x86\Release\TextureClassification.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\LBPApplication\TextureClassification\obj\x86\Release\TextureClassification.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\LBPApplication\TextureClassification\obj\x86\Release\TextureClassification.NewForm.resources

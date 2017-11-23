@@ -1,0 +1,29 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\LBPApplication\TextureClassification\obj\x86\Debug\TextureClassification.MainForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\LBPApplication\TextureClassification\obj\x86\Debug\TextureClassification.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\LBPApplication\TextureClassification\obj\x86\Debug\TextureClassification.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\LBPApplication\TextureClassification\bin\Debug\TextureClassification.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\LBPApplication\TextureClassification\bin\Debug\TextureClassification.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\LBPApplication\TextureClassification\bin\Debug\TextureClassification.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\LBPApplication\TextureClassification\obj\x86\Debug\TextureClassification.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\LBPApplication\TextureClassification\obj\x86\Debug\TextureClassification.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\LBPApplication\TextureClassification\obj\x86\Debug\TextureClassification.NewForm.resources
+C:\Users\Admin\Desktop\Nguyen Thu Ha\Nguyen Thu Ha\Chương trình\Code\bin\Debug\TextureClassification.exe.config
+C:\Users\Admin\Desktop\Nguyen Thu Ha\Nguyen Thu Ha\Chương trình\Code\obj\x86\Debug\TextureClassification.exe
+C:\Users\Admin\Desktop\Nguyen Thu Ha\Nguyen Thu Ha\Chương trình\Code\obj\x86\Debug\TextureClassification.pdb
+C:\Users\Admin\Desktop\Nguyen Thu Ha\Nguyen Thu Ha\Chương trình\Code\bin\Debug\TextureClassification.exe
+C:\Users\Admin\Desktop\Nguyen Thu Ha\Nguyen Thu Ha\Chương trình\Code\bin\Debug\TextureClassification.pdb
+C:\Users\Admin\Desktop\Nguyen Thu Ha\Nguyen Thu Ha\Chương trình\Code\obj\x86\Debug\TextureClassification.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Nguyen Thu Ha\Nguyen Thu Ha\Chương trình\Code\obj\x86\Debug\TextureClassification.NewForm.resources
+C:\Users\Admin\Desktop\Nguyen Thu Ha\Nguyen Thu Ha\Chương trình\Code\obj\x86\Debug\TextureClassification.MainForm.resources
+C:\Users\Admin\Desktop\Nguyen Thu Ha\Nguyen Thu Ha\Chương trình\Code\obj\x86\Debug\TextureClassification.Properties.Resources.resources
+C:\Users\Admin\Desktop\Nguyen Thu Ha\Nguyen Thu Ha\Chương trình\Code\obj\x86\Debug\TextureClassification.csproj.GenerateResource.Cache
+C:\Users\BEHUONG\Desktop\ĐềTàiNC\This\Chương trình\Code\bin\Debug\TextureClassification.exe.config
+C:\Users\BEHUONG\Desktop\ĐềTàiNC\This\Chương trình\Code\obj\x86\Debug\TextureClassification.exe
+C:\Users\BEHUONG\Desktop\ĐềTàiNC\This\Chương trình\Code\obj\x86\Debug\TextureClassification.pdb
+C:\Users\BEHUONG\Desktop\ĐềTàiNC\This\Chương trình\Code\bin\Debug\TextureClassification.exe
+C:\Users\BEHUONG\Desktop\ĐềTàiNC\This\Chương trình\Code\bin\Debug\TextureClassification.pdb
+C:\Users\BEHUONG\Desktop\ĐềTàiNC\This\Chương trình\Code\obj\x86\Debug\TextureClassification.csprojResolveAssemblyReference.cache
+C:\Users\BEHUONG\Desktop\ĐềTàiNC\This\Chương trình\Code\obj\x86\Debug\TextureClassification.NewForm.resources
+C:\Users\BEHUONG\Desktop\ĐềTàiNC\This\Chương trình\Code\obj\x86\Debug\TextureClassification.MainForm.resources
+C:\Users\BEHUONG\Desktop\ĐềTàiNC\This\Chương trình\Code\obj\x86\Debug\TextureClassification.Properties.Resources.resources
+C:\Users\BEHUONG\Desktop\ĐềTàiNC\This\Chương trình\Code\obj\x86\Debug\TextureClassification.csproj.GenerateResource.Cache
